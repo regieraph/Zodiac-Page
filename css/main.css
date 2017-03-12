@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  color: #fff;
+  background-color: black;
+  padding-top: 1px;
+}
+
+#zodiac {
+  position: absolute;
+  margin-left: 594px;
+}
+
+.click {
+  position: absolute;
+  border-radius: 10px;
+  margin-left: 604px;
+  margin-top: 50px;
+}
+
+.details {
+  position: absolute;
+}
