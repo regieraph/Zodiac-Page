@@ -85,3 +85,12 @@ body {
   text-shadow: 0 0 2px black;
 
 }
+
+@media (max-width:1330px) {
+  button {
+    display: none;
+  }
+  #zodiac {
+    display: none;
+  }
+}
